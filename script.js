@@ -44,7 +44,7 @@ function makeSound(key) {
       break;
 
     case "K":
-      var audio8 = new Audio("audio.aac");
+      var audio8 = new Audio("audio8.aac");
       audio8.play();
       break;
     default:
